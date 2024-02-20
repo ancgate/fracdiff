@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "fracdiff"
-version = "0.9.2"
-description = "Super-fast fractional differentiation from the original fracdiff"
+version = "16.0.0"
+description = "Super-fast fractional differentiation from the original"
 authors = ["Jefferson Bien-Aime <jefferson.bienaime@gmail.com>"]
 license = "BSD-3-Clause"
 repository = "https://github.com/fracdiff/fracdiff"
