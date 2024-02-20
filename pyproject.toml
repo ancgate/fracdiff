@@ -1,5 +1,6 @@
 [project]
-long-description = "Test"
+long-description = "file: README.md"
+long-description-content-type = "text/markdown"
 
 [tool.poetry]
 name = "fracdiff"
