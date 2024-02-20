@@ -1,3 +1,6 @@
+[project]
+long-description = "Test"
+
 [tool.poetry]
 name = "fracdiff"
 version = "16.0.0"
