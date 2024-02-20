@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "fracdiff092"
-version = "0.9.1"
+name = "fracdiff"
+version = "0.9.2"
 description = "Super-fast fractional differentiation from the original fracdiff"
 authors = ["Jefferson Bien-Aime <jefferson.bienaime@gmail.com>"]
 license = "BSD-3-Clause"
