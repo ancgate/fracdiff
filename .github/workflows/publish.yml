@@ -1,6 +1,6 @@
 name: Publish
 env:
-  PYPI_USER_NAME: simaki
+  PYPI_USER_NAME: ancgate
 on:
   release:
     types:
